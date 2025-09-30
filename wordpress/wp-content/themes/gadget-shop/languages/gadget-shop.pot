@@ -1,0 +1,112 @@
+# Copyright (C) 2025 drakearthur
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gadget Shop 0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gadget-shop\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-26T07:11:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: gadget-shop\n"
+
+#. Theme Name of the theme
+#: style.css
+#: footer.php:97
+msgid "Gadget Shop"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.seothemesexpert.com/products/gadget-shop-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Gadget Shop is a virtual wonderland for tech enthusiasts, electronic stores, gadget retailers, mobile accessories shops, eCommerce stores, electronics retailers, online shopping platforms, and technology brands, offering a visually captivating and user-friendly platform for exploring the latest gadgets and tech innovations. With a sleek and modern design, it creates an inviting online space where users can effortlessly browse through a diverse array of cutting-edge gadgets. Its responsive layout ensures smooth browsing on all devices, whether you’re on a smartphone, tablet, or desktop. The theme’s layout is crafted to make the online shopping experience both enjoyable and straightforward, catering to both tech-savvy individuals and casual shoppers. Its purpose goes beyond showcasing products; it’s a dynamic environment designed to provide a seamless and immersive journey for anyone interested in staying up-to-date with the rapidly evolving world of technology. From futuristic smartphones to smartwatches, the Gadget Shop theme ensures that users can easily discover, compare, and acquire the perfect tech companions without the need for technical expertise. With a focus on user-friendliness and a visually appealing design, multiple color options, multiple font families, typography, one-click demo importer, breadcrumbs, heading banners, blog layouts, theme layouts, animations, and translation-ready functionality, this theme transforms the virtual exploration of gadgets into an exciting and accessible adventure for all. It is optimized for speed, SEO-friendly, and integrates seamlessly with essential plugins like WooCommerce for managing product catalogs and online sales efficiently. Whether you’re a tech enthusiast looking for the latest innovations or someone curious about the world of gadgets, the Gadget Shop is your go-to destination for an enjoyable and immersive tech shopping experience."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "drakearthur"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.seothemesexpert.com/"
+msgstr ""
+
+#: comments.php:41
+#: comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44
+#: comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:45
+#: comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:31
+msgid "Search"
+msgstr ""
+
+#: footer.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: footer.php:51
+msgid "Pages"
+msgstr ""
+
+#: footer.php:64
+msgid "Categories"
+msgstr ""
+
+#: footer.php:93
+msgid "Copyright &copy; 2025,"
+msgstr ""
+
+#: footer.php:103
+msgid "WordPress Theme"
+msgstr ""
+
+#: footer.php:113
+msgid "TOP"
+msgstr ""
+
+#: functions.php:37
+msgid "Welcome! Thank you for choosing Gadget Shop"
+msgstr ""
+
+#: functions.php:53
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:55
+msgid "The Primary Widget Area"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:64
+msgid "The Footer Widget Area"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr ""

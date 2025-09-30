@@ -1,0 +1,72 @@
+.demo-box {
+    margin: auto;
+    width: 1050px;
+    text-align: center;
+    margin-top: 40px;
+}
+.thme-img-box {
+    width: 60%;
+    margin: auto;
+    padding: 25px 60px;
+    background: #ffffff;
+    border-radius: 20px;
+}
+.thme-img-box img {
+    width: 100%;
+    box-shadow: 0px 0px 31.3px 2px #00000040;
+    border-radius: 10px;
+}
+.importer-content h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+.importer-content h6 {
+    font-size: 20px;
+    color: #0055FF;
+}
+.importer-content p {
+    font-size: 14px;
+    line-height: 25px;
+    width: 65%;
+    text-align: center;
+    margin: auto;
+}
+
+.run-btn {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-align: center !important;
+    border-radius: 10px !important;
+    padding: 15px 40px !important;
+    margin: 10px !important;
+    background: linear-gradient(to right, #0055FF, #00194C) !important;
+    color: #ffffff;
+    border: none !important;
+    cursor: pointer;
+}
+
+.success {
+    background: linear-gradient(to right, var(--wc-green), #214c00);
+    color: #fff;
+    padding: 16px 24px;
+    border-radius: 0;
+    font-size: 1.1rem;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    animation: flash 1s infinite ease-in-out;
+    margin: 20px 0;
+}
+
+@keyframes flash {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.4;
+    }
+}
+
+.appearance_page_online-education-classes-demo .notice{
+    display: none;
+}

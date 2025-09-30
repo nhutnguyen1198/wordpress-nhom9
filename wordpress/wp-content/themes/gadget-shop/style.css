@@ -1,0 +1,66 @@
+/*
+Theme Name: Gadget Shop
+Theme URI: https://www.seothemesexpert.com/products/gadget-shop-theme
+Author: drakearthur
+Author URI: https://www.seothemesexpert.com/
+Description: Gadget Shop is a virtual wonderland for tech enthusiasts, electronic stores, gadget retailers, mobile accessories shops, eCommerce stores, electronics retailers, online shopping platforms, and technology brands, offering a visually captivating and user-friendly platform for exploring the latest gadgets and tech innovations. With a sleek and modern design, it creates an inviting online space where users can effortlessly browse through a diverse array of cutting-edge gadgets. Its responsive layout ensures smooth browsing on all devices, whether you’re on a smartphone, tablet, or desktop. The theme’s layout is crafted to make the online shopping experience both enjoyable and straightforward, catering to both tech-savvy individuals and casual shoppers. Its purpose goes beyond showcasing products; it’s a dynamic environment designed to provide a seamless and immersive journey for anyone interested in staying up-to-date with the rapidly evolving world of technology. From futuristic smartphones to smartwatches, the Gadget Shop theme ensures that users can easily discover, compare, and acquire the perfect tech companions without the need for technical expertise. With a focus on user-friendliness and a visually appealing design, multiple color options, multiple font families, typography, one-click demo importer, breadcrumbs, heading banners, blog layouts, theme layouts, animations, and translation-ready functionality, this theme transforms the virtual exploration of gadgets into an exciting and accessible adventure for all. It is optimized for speed, SEO-friendly, and integrates seamlessly with essential plugins like WooCommerce for managing product catalogs and online sales efficiently. Whether you’re a tech enthusiast looking for the latest innovations or someone curious about the world of gadgets, the Gadget Shop is your go-to destination for an enjoyable and immersive tech shopping experience.
+Version: 0.8
+Tested up to: 6.8
+Requires PHP: 7.2
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: gadget-shop
+Template: gadget-store
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, grid-layout, wide-blocks, editor-style, full-width-template, custom-background, custom-colors, custom-header, custom-logo, custom-menu, sticky-post, featured-images, footer-widgets, flexible-header, featured-image-header, post-formats, theme-options, threaded-comments, translation-ready, rtl-language-support, blog, portfolio, e-commerce
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+:root {
+  --color-primary1: #27C0FE;
+  --color-primary2: #0F93C9;
+}
+a{
+    text-decoration: none;
+}
+.logo p a, .logo h1 {
+  font-size: 30px;
+  color: #000;
+}
+.logo p a:hover{
+  color: var(--color-primary1);
+}
+.main-header .navbar .navbar-menu li.current_page_item a{
+  background: var(--color-primary2);
+  color: #fff;
+}
+.main-header .navbar .navbar-menu ul li.current_page_item ul.sub-menu a{
+  background:none !important;
+  color: #fff !important;
+}
+.header-details i:hover, button.category-btn:hover{
+  color: var(--color-primary1) !important;
+}
+.main-header .navbar .navbar-menu ul li a:hover, .logo a:hover{
+  color: #fff;
+}
+.product-main:hover .product-content, .product-main:hover h4 a, .product-main:hover .product-content a,
+.product-main:hover  p.discount_amt.mb-0, .product-main:hover .product-content p,.product-main:hover  p.sale_cart a{
+  color: #fff;
+}
+.product-content h4 a:hover, .slider-post a:hover, 
+.product-content a:hover, .header-details i:hover, 
+.upper-header-area a i:hover, button.category-btn:hover, .upper-header-area a:hover{
+  color: #fff;
+}
+@media screen and (min-width:1700px) and (max-width:1900px){
+  .container{
+      max-width: 1520px;
+  }
+}
+@media screen and (min-width:1920px) {
+  .container{
+      max-width: 1620px;
+  }
+}
